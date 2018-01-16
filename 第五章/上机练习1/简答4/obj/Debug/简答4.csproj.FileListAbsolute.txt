@@ -1,0 +1,9 @@
+D:\第五章\上机练习1\简答4\bin\Debug\简答4.exe.config
+D:\第五章\上机练习1\简答4\bin\Debug\简答4.exe
+D:\第五章\上机练习1\简答4\bin\Debug\简答4.pdb
+D:\第五章\上机练习1\简答4\obj\Debug\简答4.csprojResolveAssemblyReference.cache
+D:\第五章\上机练习1\简答4\obj\Debug\简答4.Form1.resources
+D:\第五章\上机练习1\简答4\obj\Debug\简答4.Properties.Resources.resources
+D:\第五章\上机练习1\简答4\obj\Debug\简答4.csproj.GenerateResource.Cache
+D:\第五章\上机练习1\简答4\obj\Debug\简答4.exe
+D:\第五章\上机练习1\简答4\obj\Debug\简答4.pdb
