@@ -1,0 +1,9 @@
+c:\users\90930\documents\visual studio 2012\Projects\体检套餐管理系统\体检套餐管理系统\bin\Debug\体检套餐管理系统.exe.config
+c:\users\90930\documents\visual studio 2012\Projects\体检套餐管理系统\体检套餐管理系统\bin\Debug\体检套餐管理系统.exe
+c:\users\90930\documents\visual studio 2012\Projects\体检套餐管理系统\体检套餐管理系统\bin\Debug\体检套餐管理系统.pdb
+c:\users\90930\documents\visual studio 2012\Projects\体检套餐管理系统\体检套餐管理系统\obj\Debug\体检套餐管理系统.csprojResolveAssemblyReference.cache
+c:\users\90930\documents\visual studio 2012\Projects\体检套餐管理系统\体检套餐管理系统\obj\Debug\体检套餐管理系统.Form1.resources
+c:\users\90930\documents\visual studio 2012\Projects\体检套餐管理系统\体检套餐管理系统\obj\Debug\体检套餐管理系统.Properties.Resources.resources
+c:\users\90930\documents\visual studio 2012\Projects\体检套餐管理系统\体检套餐管理系统\obj\Debug\体检套餐管理系统.csproj.GenerateResource.Cache
+c:\users\90930\documents\visual studio 2012\Projects\体检套餐管理系统\体检套餐管理系统\obj\Debug\体检套餐管理系统.exe
+c:\users\90930\documents\visual studio 2012\Projects\体检套餐管理系统\体检套餐管理系统\obj\Debug\体检套餐管理系统.pdb
